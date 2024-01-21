@@ -1,10 +1,7 @@
 # Employee Selection System
  Technology Sector
 
-
 ---
-
-# Employee Selection System
 
 ## Introduction
 
